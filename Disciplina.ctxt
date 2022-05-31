@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=clave\ nombre\ tipo
+comment1.target=Disciplina(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=clave
+comment2.target=void\ setClave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getClave()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=tipo
+comment6.target=void\ setTipo(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getTipo()
+numComments=8

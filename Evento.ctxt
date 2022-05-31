@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Evento
+comment1.params=clave\ nombre
+comment1.target=Evento(java.lang.String,\ java.lang.String)
+comment2.params=clave
+comment2.target=void\ setClave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getClave()
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+numComments=6

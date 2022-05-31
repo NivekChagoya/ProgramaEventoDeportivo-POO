@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Entrenador
+comment1.params=nom\ apeP\ apeM\ edad\ sex\ clave
+comment1.target=Entrenador(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ char,\ java.lang.String)
+comment2.params=clave
+comment2.target=void\ setClave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getClave()
+numComments=4

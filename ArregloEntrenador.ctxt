@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArregloEntrenador
+comment1.params=max
+comment1.target=ArregloEntrenador(int)
+comment10.params=c
+comment10.target=java.lang.String\ imprimirDatos(java.lang.String)
+comment11.params=c
+comment11.target=java.lang.String\ datos(java.lang.String)
+comment2.params=
+comment2.target=boolean\ lleno()
+comment3.params=
+comment3.target=int\ cuantosHay()
+comment4.params=e
+comment4.target=boolean\ agregar(Entrenador)
+comment5.params=clave
+comment5.target=boolean\ eliminar(java.lang.String)
+comment6.params=clave
+comment6.target=Entrenador\ regresar(java.lang.String)
+comment7.params=pos
+comment7.target=Entrenador\ regresarPos(int)
+comment8.params=
+comment8.target=java.util.Vector\ Claves()
+comment9.params=c
+comment9.target=boolean\ compClaves(java.lang.String)
+numComments=12

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nom\ apeP\ apeM\ edad\ sex\ clave\ t
+comment1.target=Jugador(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ char,\ java.lang.String,\ int)
+comment2.params=clave
+comment2.target=void\ setClave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getClave()
+comment4.params=t
+comment4.target=void\ setTiempo(int)
+comment5.params=
+comment5.target=int\ getTiempo()
+comment6.params=cad
+comment6.target=java.lang.String\ toString(java.lang.String)
+numComments=7
